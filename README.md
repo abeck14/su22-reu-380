@@ -13,6 +13,8 @@ abeckct@gmail.com
 - [x] Believed to have finished python-graphics links with Jackson and
 Allison
 - [x] Data management class in cloudmesh and tested cms commands
+- [x] Fixed line cutoffs and examples in python tutorials (glob, pickle, 
+  mmap, and shelve)
 
 ## Have not achieved
 - 
