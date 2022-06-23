@@ -39,4 +39,7 @@ After participating in the C4GC program, so far, I've learned:
 * Glob
 * Pickle
 * Mmap
-* Incorporating Shell Commands into Python
+* Incorporating Shell Commands into Python 
+* Rivanna
+* Graphviz
+
