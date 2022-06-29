@@ -42,4 +42,7 @@ After participating in the C4GC program, so far, I've learned:
 * Incorporating Shell Commands into Python 
 * Rivanna
 * Graphviz
+* HTML Development
+* Datatables.net
+* YamlDB
 
