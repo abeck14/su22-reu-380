@@ -24,7 +24,8 @@ the class I learned about:
 
 ## What I Thought I Knew
 
-* Classes
+* Class Methods
+* Static Methods
 * Didn't realize how much of a beginner I am
 
 ## What I Learned from C4GC:
